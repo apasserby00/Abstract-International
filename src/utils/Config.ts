@@ -1,7 +1,7 @@
 export const Config = {
   site_name: 'Starter',
-  title: 'Abstract Int.',
-  description: 'Crafting beautiful digital experiences and products.',
+  title: 'Abstract International',
+  description: 'A full-service desgin agency, crafting beatiful experiences and products.',
   url: 'https://abstract.international',
   locale: 'en',
   author: 'Mark Ayvaz',
