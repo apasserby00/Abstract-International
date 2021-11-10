@@ -1,13 +1,10 @@
 import React, { ReactNode } from 'react';
 
-import Link from 'next/link';
-
-import { Navbar } from '../navigation/Navbar';
 import { Config } from '../utils/Config';
 
 type IMainProps = {
   meta: ReactNode;
-  children: ReactNode;
+  // children: ReactNode;
 };
 
 const Main = (props: IMainProps) => (
