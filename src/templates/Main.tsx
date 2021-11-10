@@ -1,10 +1,8 @@
 import React, { ReactNode } from 'react';
 
-import { Config } from '../utils/Config';
-
 type IMainProps = {
   meta: ReactNode;
-  // children: ReactNode;
+  children: ReactNode;
 };
 
 const Main = (props: IMainProps) => (
