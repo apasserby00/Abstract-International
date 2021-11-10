@@ -2,6 +2,9 @@ module.exports = {
   purge: ['./src/**/*.{js,ts,jsx,tsx}', './_posts/**/*.md'],
   darkMode: false,
   theme: {
+    fontFamily: {
+      'abstract': ['Glorine']
+    },
     fontSize: {
       xs: '0.75rem',
       sm: '0.875rem',
