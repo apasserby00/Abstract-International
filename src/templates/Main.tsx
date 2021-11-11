@@ -19,7 +19,7 @@ const Main = (props: IMainProps) => (
       <div className="text-xl tracking-wide">Software and Design Studio</div>
     </div>
 
-    <div className="text-xl text-red-900 text-opacity-50 tracking-widest">COMING SOON</div>
+    <div className="text-xl text-red-900 tracking-widest">COMING SOON</div>
   </div>
 );
 
